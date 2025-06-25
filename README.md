@@ -39,12 +39,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your landing page, property listing, and dashboard UI here.
-
----
-
 ## ⚙️ Installation
 
 1. **Clone the Repository**
